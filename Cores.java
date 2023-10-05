@@ -26,7 +26,7 @@ public class Cores {
 
     //fazer o método alterar(lista, indice, novaCor)
     public static void alterar(ArrayList<String> lista, int indice, String novaCor) {
-        
+        //remover o /node_modules
     }
         // A partir da próxima linha, crie o método alterar(lista, indice, novaCor).
 }
